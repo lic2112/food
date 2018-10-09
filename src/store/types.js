@@ -1,0 +1,9 @@
+export const SHOW_LOADING = 'SHOW_LOADING';
+export const HIDE_LOADING = 'HIDE_LOADING';
+export const SHOW_FOOT = 'SHOW_FOOT';
+export const HIDE_FOOT = 'HIDE_FOOT';
+export const USER = 'USER';
+export const ADD_ITEM = 'ADD_ITEM';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+export const CHANGE_ITEM = 'CHANGE_ITEM';
+export const CLEAR_BUYCAR = 'CLEAR_BUYCAR';
